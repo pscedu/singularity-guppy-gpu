@@ -1,27 +1,27 @@
 --
--- guppy 6.0.0 modulefile
+-- guppy-gpu 6.0.0 modulefile
 --
 -- "URL: https://www.psc.edu/resources/software"
 -- "Category: Biological Sciences"
 -- "Description: Guppy is a data processing toolkit that contains the Oxford Nanopore Technologies’ basecalling algorithms."
 -- "Keywords: singularity bioinformatics"
 
-whatis("Name: guppy")
+whatis("Name: guppy-gpu")
 whatis("Version: 6.0.0")
 whatis("Category: Biological Sciences")
 whatis("URL: https://www.psc.edu/resources/software")
-whatis("Description: Guppy is a data processing toolkit that contains the Oxford Nanopore Technologies’ basecalling algorithms."
+whatis("Description: Guppy is a data processing toolkit that contains the Oxford Nanopore Technologies’ basecalling algorithms.")
 
 help([[
 Guppy is a data processing toolkit that contains the Oxford Nanopore Technologies’ basecalling algorithms.
 
 To load the module type
 
-> module load guppy/6.0.0
+> module load guppy-gpu/6.0.0
 
 To unload the module type
 
-> module unload guppy/6.0.0
+> module unload guppy-gpu/6.0.0
 
 Tools included in this module are
 
