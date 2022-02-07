@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/github/license/pscedu/singularity-guppy)
 
 # singularity-guppy
-Singularity recipe for [guppy](https://nanoporetech.com/nanopore-sequencing-data-analysis).
+Singularity recipe for [guppy](https://community.nanoporetech.com/protocols/Guppy-protocol/v/gpb_2003_v1_revac_14dec2018/linux-guppy).
 
 ## Installing the container on Bridges 2
 Copy the
